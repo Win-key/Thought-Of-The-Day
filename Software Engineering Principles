@@ -1,3 +1,21 @@
+S.O.L.I.D stands for:
+=======================
+
+S - Single-responsiblity principle.
+	A class or function should have one and only one reason to change
+
+O - Open-closed principle.
+	Functionality must be open for extension but closed for modification
+
+L - Liskov substitution principle.
+	You should be able to replace a super class with a sub class anywhere in the program without any unexpected behaviour
+	
+I - Interface segregation principle.
+	Create simple, focused interfaces instead of bloated big ones
+
+D - Dependency Inversion Principle.
+	A class should not depend on another concrete class, instead it should depend on an abstraction
+
 Domain Modeling
 ===============
 * Entities ** Relationships *** Responsbility

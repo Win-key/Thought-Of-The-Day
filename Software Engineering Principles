@@ -262,3 +262,12 @@ All code must have unit tests.
 All code must pass all unit tests before it can be released.
 When a bug is found tests are created.
 Acceptance tests are run often and the score is published.
+
+
+RED, GREEN, REFACTOR
+=====================
+The red, green, refactor approach helps developers compartmentalize their focus into three phases:
+
+Red — think about what you want to develop
+Green — think about how to make your tests pass
+Refactor — think about how to improve your existing implementation
